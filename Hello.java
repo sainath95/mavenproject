@@ -4,7 +4,7 @@ public class Hello{
 		
 		for(int i=1;i<=10;i++){
 			
-			System.out.println("Hello-Worlds ... "+i);
+			System.out.println("Hello-Worlds from GITHUB ... "+i);
 			System.out.println("sai is great");
 		
 		}
